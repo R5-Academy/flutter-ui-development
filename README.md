@@ -19,4 +19,4 @@ Sem git: [baixar o ZIP](https://github.com/R5-Academy/flutter-ui-development/arc
 
 Depois, dentro da pasta do projeto: `flutter pub get` e `flutter run`.
 
-Índice com todas as aulas do curso: <https://github.com/R5-Academy/flutter-ui-development>
+Sobre o curso: <https://github.com/R5-Academy/flutter-ui-development>
