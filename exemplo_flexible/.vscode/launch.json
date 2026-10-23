@@ -1,0 +1,44 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_minimo_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_minimo_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_loose_nao_estica_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_loose_nao_estica_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_expanded_x_flexible_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_expanded_x_flexible_inicio.dart"
+    },
+    {
+      "name": "exemplo_04_flex_factor_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_flex_factor_inicio.dart"
+    },
+    {
+      "name": "exemplo_05_quando_cada_um_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_quando_cada_um_inicio.dart"
+    }
+  ]
+}
