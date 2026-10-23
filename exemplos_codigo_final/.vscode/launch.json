@@ -1,0 +1,50 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Índice — exemplo_main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_main.dart"
+    },
+    {
+      "name": "01 — Sem Scaffold",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_sem_scaffold.dart"
+    },
+    {
+      "name": "02 — Scaffold Mínimo",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_scaffold_minimo.dart"
+    },
+    {
+      "name": "03 — Anatomia dos Slots",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_anatomia_dos_slots.dart"
+    },
+    {
+      "name": "04 — Área Segura",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_area_segura.dart"
+    },
+    {
+      "name": "05 — Teclado Resize",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_teclado_resize.dart"
+    },
+    {
+      "name": "06 — Scaffold.of Armadilha",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_scaffold_of_armadilha.dart"
+    }
+  ]
+}
