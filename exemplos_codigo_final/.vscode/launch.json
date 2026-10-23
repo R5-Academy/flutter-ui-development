@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Índice — main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "02 — Menu (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_menu_inicio.dart"
+    },
+    {
+      "name": "05 — Tema Drawer (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_tema_inicio.dart"
+    },
+    {
+      "name": "06 — NavigationDrawer M3 (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_navigation_drawer_inicio.dart"
+    }
+  ]
+}
