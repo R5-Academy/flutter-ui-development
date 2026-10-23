@@ -1,0 +1,44 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "01 — Ler Texto",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_ler_texto_inicio.dart"
+    },
+    {
+      "name": "02 — Alterar e Limpar",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_alterar_e_limpar_inicio.dart"
+    },
+    {
+      "name": "03 — Texto Inicial",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_texto_inicial_inicio.dart"
+    },
+    {
+      "name": "04 — Contador de Caracteres",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_contador_caracteres_inicio.dart"
+    },
+    {
+      "name": "05 — Dispose Esquecido",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_dispose_esquecido_inicio.dart"
+    }
+  ]
+}
