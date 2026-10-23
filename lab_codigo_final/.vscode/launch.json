@@ -1,0 +1,50 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "01_01 — Armadilha viewport sem altura",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_01_armadilha_viewport_sem_altura.dart"
+    },
+    {
+      "name": "01_02 — ShrinkWrap início",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_02_shrinkwrap_inicio.dart"
+    },
+    {
+      "name": "01_03 — Nuance pai finito",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_03_nuance_pai_finito.dart"
+    },
+    {
+      "name": "02 — ItemExtent início",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_itemextent_inicio.dart"
+    },
+    {
+      "name": "03_01 — Armadilha lista sem key",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_01_armadilha_lista_sem_key.dart"
+    },
+    {
+      "name": "03_02 — Keys início",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_02_keys_inicio.dart"
+    },
+    {
+      "name": "04 — Lista de verdade início",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_lista_de_verdade_inicio.dart"
+    }
+  ]
+}
