@@ -1,0 +1,22 @@
+# FilledButton
+
+Código da aula **FilledButton** (Botões) do curso **Flutter UI Development** — R5 Flutter Academy.
+
+## O que tem aqui
+
+- `exemplo_filledbutton_codigo_final/` — o projeto **como ficou ao fim da gravação**.
+- `exemplo_filledbutton/` — o **ponto de partida**: mesmo projeto com a `lib/` no estado em que a aula começa.
+
+## Como baixar
+
+Só esta aula, com git:
+
+```bash
+git clone -b 07-02-filledbutton --single-branch https://github.com/R5-Academy/flutter-ui-development.git 07-02-filledbutton
+```
+
+Sem git: [baixar o ZIP](https://github.com/R5-Academy/flutter-ui-development/archive/refs/heads/07-02-filledbutton.zip).
+
+Depois, dentro da pasta do projeto: `flutter pub get` e `flutter run`.
+
+Sobre o curso: <https://github.com/R5-Academy/flutter-ui-development>
