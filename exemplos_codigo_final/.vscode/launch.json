@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Índice — main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "01 — NavigationBar Mínima (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_navigationbar_inicio.dart"
+    },
+    {
+      "name": "02 — Estado das Abas (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_estado_das_abas_inicio.dart"
+    },
+    {
+      "name": "03 — Destinos (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_destinos_inicio.dart"
+    },
+    {
+      "name": "04.01 — BottomNavigationBar (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_01_bottomnavigationbar_inicio.dart"
+    },
+    {
+      "name": "04.02 — BottomNavigationBar Armadilha",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_02_bottomnavigationbar_armadilha.dart"
+    },
+    {
+      "name": "05 — Tema da Barra (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_tema_inicio.dart"
+    },
+    {
+      "name": "06.01 — Moldura (Início)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_01_moldura_inicio.dart"
+    },
+    {
+      "name": "06.02 — FAB Encaixado",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_02_fab_encaixado.dart"
+    }
+  ]
+}
