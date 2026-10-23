@@ -1,0 +1,50 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_column_minima_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_column_minima_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_row_vira_column_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_row_vira_column_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_alinhamentos_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_alinhamentos_inicio.dart"
+    },
+    {
+      "name": "exemplo_04_cross_stretch_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_cross_stretch_inicio.dart"
+    },
+    {
+      "name": "exemplo_05_main_axis_size_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_main_axis_size_inicio.dart"
+    },
+    {
+      "name": "exemplo_06_overflow_vertical_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_overflow_vertical_inicio.dart"
+    }
+  ]
+}
