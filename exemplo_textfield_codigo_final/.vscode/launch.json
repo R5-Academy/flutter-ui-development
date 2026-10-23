@@ -1,0 +1,44 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "01 — TextField Básico",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_textfield_basico_inicio.dart"
+    },
+    {
+      "name": "02 — KeyboardType",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_keyboardtype_inicio.dart"
+    },
+    {
+      "name": "03 — Senha obscureText",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_senha_obscuretext_inicio.dart"
+    },
+    {
+      "name": "04 — MaxLength MaxLines",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_maxlength_maxlines_inicio.dart"
+    },
+    {
+      "name": "05 — onSubmitted",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_onsubmitted_inicio.dart"
+    }
+  ]
+}
